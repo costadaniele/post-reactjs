@@ -1,3 +1,11 @@
+<h1 align="center">Aplicação ReactJS utilizando Vite 🚀</h1>
+
+<p align="center">
+Programa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+</p>
+
+## 💻 Instalações 
+
 <p>Vite</p>
 
 `npm create vite@latest`
@@ -17,3 +25,5 @@
 <p> Formatar data </p>
 
 `npm i date-fns`
+
+<img src="./public/post-web.png">
