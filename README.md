@@ -1,8 +1,10 @@
 <h1 align="center">Aplicação ReactJS utilizando Vite 🚀</h1>
 
 <p align="center">
-Programa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Programa promovido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a> para ensino de tecnologias WEB. <br/>
 </p>
+
+<br>
 
 ## 💻 Instalações 
 
@@ -25,5 +27,9 @@ Programa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <p> Formatar data </p>
 
 `npm i date-fns`
+
+<br>
+
+## 💻 Visualização do projeto
 
 <img src="./public/post-web.png">
